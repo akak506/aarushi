@@ -1,1 +1,14 @@
 /* Add your styles here */
+.two-column { 
+    background-color: red;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: dotted;
+    cursor: grab;
+}
+.right {
+    background-color: green;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
